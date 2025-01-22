@@ -11,7 +11,7 @@ public class Example1Sender {
 // Three command line arguments are expected, in order:
 // <domain name or IP address of the receiver>
 // <port number of the receiver's socket>
-// <message, a string, to sed>
+// <message, a string, to se>
     public static void main(String[] args) {
         if (args.length != 3)
             System.out.println

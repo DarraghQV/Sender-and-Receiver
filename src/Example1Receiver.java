@@ -37,4 +37,4 @@ public class Example1Receiver {
             }
         } // end else
     } // end main
-} // end clas
+} // end cla
